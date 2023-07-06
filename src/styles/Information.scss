@@ -1,0 +1,23 @@
+@import "colors";
+
+.internship {
+    h1 {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: $first;
+        background-color: $second;
+        font: 400 3rem $text2;
+        padding: 10px;
+    }
+
+    p {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: $first;
+        background-color: $second;
+        font: 400 1.5rem $text2;
+        padding: 10px;
+    }
+}
